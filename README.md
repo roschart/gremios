@@ -5,4 +5,4 @@ This is a project for fun and the test some programming conceps using as base a 
 ## Game
 The idea is create a phantasy turn base game, where you manga groups of people with total different skills (warrios, mages, withars), different races, professions, etc, in an mission based game.
 
-The idea is that all must be randomized but inside some limits.
+The idea is that all must be randomized but inside some limits, no pull of heroes, infinites heroes with arquetypes, again randomized inside limits
